@@ -52,4 +52,9 @@ li{
       font-size: 1em;
       padding:5px 15px;
     }
- } 
+}
+@media(min-width:992px){
+    .dropdown{
+        display:none !important;
+    }
+}
